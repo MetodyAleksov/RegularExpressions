@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Race", "..\02.Race\02.Ra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Softuni bar income", "..\03.Softuni bar income\03.Softuni bar income.csproj", "{5CBE3454-3874-4485-8D8A-C99BF7F379CC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.NetherRealms", "..\05.NetherRealms\05.NetherRealms.csproj", "{EC8BCA55-89D2-43B5-9009-C7A273C6BA83}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{5CBE3454-3874-4485-8D8A-C99BF7F379CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5CBE3454-3874-4485-8D8A-C99BF7F379CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5CBE3454-3874-4485-8D8A-C99BF7F379CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC8BCA55-89D2-43B5-9009-C7A273C6BA83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC8BCA55-89D2-43B5-9009-C7A273C6BA83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC8BCA55-89D2-43B5-9009-C7A273C6BA83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC8BCA55-89D2-43B5-9009-C7A273C6BA83}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
