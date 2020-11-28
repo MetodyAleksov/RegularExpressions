@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Softuni bar income", "..
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.NetherRealms", "..\05.NetherRealms\05.NetherRealms.csproj", "{EC8BCA55-89D2-43B5-9009-C7A273C6BA83}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.StarEnigma", "..\04.StarEnigma\04.StarEnigma.csproj", "{0B0A5DA0-2B48-4B4F-BBC4-7133E009A522}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.ExtractEmails", "..\06.ExtractEmails\06.ExtractEmails.csproj", "{0247A1A4-7095-459E-8390-F6DC9C0B5F0C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{EC8BCA55-89D2-43B5-9009-C7A273C6BA83}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EC8BCA55-89D2-43B5-9009-C7A273C6BA83}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EC8BCA55-89D2-43B5-9009-C7A273C6BA83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B0A5DA0-2B48-4B4F-BBC4-7133E009A522}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B0A5DA0-2B48-4B4F-BBC4-7133E009A522}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B0A5DA0-2B48-4B4F-BBC4-7133E009A522}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B0A5DA0-2B48-4B4F-BBC4-7133E009A522}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0247A1A4-7095-459E-8390-F6DC9C0B5F0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0247A1A4-7095-459E-8390-F6DC9C0B5F0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0247A1A4-7095-459E-8390-F6DC9C0B5F0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0247A1A4-7095-459E-8390-F6DC9C0B5F0C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
